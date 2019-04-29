@@ -1,0 +1,3 @@
+com\cb\dubbo\demo\api\App.class
+com\cb\dubbo\demo\api\dao\Emp.class
+com\cb\dubbo\demo\api\service\DemoService.class
